@@ -16,166 +16,51 @@
       "Historical History"
     ],
     [
-      "http://stream.radiosrood.com:8000/live",
-      "Radio Srood",
-      "Variety"
+      "http://stream.zeno.fm/v6nznep0xp8uv.m3u",
+      "Power Play v7",
+      "I like Fortnight"
     ],
     [
       "http://s10.myradiostream.com:12238/;",
-      "SAL Watandar",
-      "Pop"
+      "Ninja Sex Party FM",
+      "Sex is cool m8"
     ],
     [
-      "http://nl1.streamingpulse.com:7080/stream",
-      "Shamshad Radio",
-      "null"
+      "http://stream.zeno.fm/fgcp2p1gzrhvv.m3u",
+      "K -Rose",
+      "Country Music"
     ]
   ],
-  "Alaska (USA)": [
+  "Boogertown": [
     [
-      "http://in.icy2.abacast.com/alphacorporate-kmxsfmmp3-im",
-      "Mix 103.1",
-      "null"
+      "http://stream.zeno.fm/yyefavw7038uv.m3u",
+      "Booger Town Radio",
+      "Good Music"
     ],
     [
-      "http://in.icy2.abacast.com/alphacorporate-keagfmmp3-im",
-      "KEAG",
-      "Classic-Hits"
+      "http://stream.zeno.fm/4y3xqvkxcf9uv.m3u",
+      "Ram Ranch",
+      "Gay Music"
     ],
     [
-      "http://stream.kska.org:8290/xstream",
-      "KSKA FM",
-      "Talk Public-Radio"
+      "http://stream.zeno.fm/u3fgt0cwbg8uv.m3u",
+      "Rodgi Radio",
+      "Big man Tyrone"
     ],
     [
-      "http://ic2.nwrnetwork.com/kafc-fm",
-      "93.7 KAFC",
-      "null"
+      "http://stream.zeno.fm/2peffbsrcg8uv.m3u",
+      "FlashBack FM",
+      "Pop Station"
     ],
     [
-      "http://knlt.streamguys1.com/live",
-      "95.5 The Pass",
-      "null"
-    ],
-    [
-      "http://ic2.nwrnetwork.com/katb-fm",
-      "Life Changing Radio",
-      "null"
-    ],
-    [
-      "http://war.str3am.com:8080/krbd",
-      "KRBD FM",
+      "http://stream.zeno.fm/1vrmm4kwbg8uv.m3u",
+      "Rebel Radio",
       "Community"
     ],
     [
-      "http://14983.live.streamtheworld.com/KXLLFM.mp3",
-      "Excellent Radio",
-      "Rock Alternative"
-    ],
-    [
-      "http://amber.streamguys.com:4620",
-      "KFSK-FM",
-      "Community"
-    ],
-    [
-      "http://streams.radiomast.io/kcam",
-      "The Light",
-      "Community"
-    ],
-    [
-      "http://peridot.streamguys.com:5460/live",
-      "KDLL-FM",
-      "Community"
-    ],
-    [
-      "http://war.str3am.com:7160/live",
-      "101.7 KSTK",
-      "Public-Radio"
-    ],
-    [
-      "http://14983.live.streamtheworld.com:3690/KTOOFM_SC",
-      "KTOO FM",
-      "Public-Radio"
-    ],
-    [
-      "http://ic2.sslstream.com/kvnt-am",
-      "Valley News Talk 1020",
-      "News-Talk"
-    ],
-    [
-      "http://in.icy2.abacast.com/alphacorporate-kharammp3-im",
-      "Sportsradio 590 & 96.7",
-      "Sport Talk"
-    ],
-    [
-      "http://kea.cdnstream.com/1928_128",
-      "Hot 101.1",
-      "CHR"
-    ],
-    [
-      "http://peridot.streamguys.com:5130/live",
-      "KHNS-FM",
-      "Public-Radio"
-    ],
-    [
-      "http://stream.radio.co/se776fab22/listen",
-      "KSUA",
-      "College University"
-    ],
-    [
-      "http://us2.streamingpulse.com/ssl/kvakfm",
-      "KVAK FM",
-      "null"
-    ],
-    [
-      "http://primary.moodyradiostream.org/Network.mp3",
-      "Moody Radio",
-      "null"
-    ],
-    [
-      "http://amber.streamguys.com:4650/live",
-      "Radio Free Palmer",
-      "Variety"
-    ],
-    [
-      "http://peridot.streamguys.com:7550/live",
-      "KSKO-FM",
-      "Public-Radio"
-    ],
-    [
-      "http://kicy.streamguys1.com/KICY-FM",
-      "Icy 100.3",
-      "Christian Contemporary"
-    ],
-    [
-      "http://kea.cdnstream.com/1929_128",
-      "98.7 FM KVOK",
-      "null"
-    ],
-    [
-      "http://kqqn.streamguys1.com/live",
-      "Alaska Adventist Radio Network",
-      "null"
-    ],
-    [
-      "http://edge.mixlr.com/channel/qgemi",
-      "Fairbanks Open Radio",
-      "null"
-    ],
-    [
-      "http://s26.myradiostream.com:17824/;",
-      "Out North Radio",
-      "Electronic"
-    ],
-    [
-      "http://live.kboo.fm:8000/high",
-      "KHOO",
-      "Community"
-    ],
-    [
-      "http://streaming.live365.com/a94615",
-      "Alaskan Birdsong Music",
-      "Ambient"
+      "http://stream.zeno.fm/p4qu6qzpcq8uv.m3u",
+      "Chi-Chi’s Radio Show",
+      "Chi-Chi’s Shit"
     ]
   ],
   "Albania": [
