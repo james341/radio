@@ -1,73 +1,23 @@
 {
-  "Afghanistan": [
+  "Pines City": [
     [
-      "http://rfe-channel-17.akacast.akamaistream.net/7/367/229667/v1/ibb.akacast.akamaistream.net/rfe_channel_17.mp3",
-      "Radio Free Afghanistan-Radio Azadi",
-      "News-Talk"
+      "http://stream.zeno.fm/9yfzbxdxag8uv.m3u",
+      "Pines City",
+      "Popular Station"
     ],
     [
-      "http://streams.radio.co/sa3345aaa8/listen",
-      "Ariana FM",
-      "Variety Pop"
+      "http://stream.zeno.fm/pz44heba1rhvv.m3u",
+      "105.0 World",
+      "Classical Music"
     ],
     [
-      "http://s3.radio.co/s3a13a855f/listen",
-      "Radio Jawanan FM",
-      "null"
+      "http://stream.zeno.fm/3n48f3xx4rhvv.m3u",
+      "DocuDubery's world of History",
+      "Historical History"
     ],
-    [
-      "http://s10.myradiostream.com/12238/;",
-      "Radio Salam Watandar",
-      "null"
-    ],
-    [
-      "http://ca10.rcast.net:8026/;",
-      "Spogmai FM",
-      "null"
-    ],
-    [
-      "http://afghanradio.org:8000/;",
-      "Afghan Radio - Sadaye Zindagi",
-      "Christian"
-    ],
-    [
-      "http://streams.radio.co/sb55071395/listen",
-      "Ariana News Radio 100.2",
-      "Talk News"
-    ],
-    [
-      "http://direct.sharp-stream.com/ssvcbfbs9.mp3",
-      "Bfbs Afghanistan",
-      "Variety"
-    ],
-    [
-      "http://streams.radio.co/sa3345aaa8/listen",
-      "Radio Ariana FM",
-      "null"
-    ],
-    [
-      "http://rfe17.akacast.akamaistream.net/7/899/437775/v1/ibb.akacast.akamaistream.net/rfe17",
-      "Radio Azadi FM",
-      "Variety"
-    ],
-    [
-      "http://uk3-pn.webcast-server.net:8424/stream/1/;",
-      "Radio Bakhtar",
-      "Ethnic"
-    ],
-    [
-      "http://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs9.mp3",
-      "Radio Bfbs Afghanistan",
-      "Adult-Contemporary"
-    ],
-    [
-      "http://stream.radiosrood.com:8000/live",
-      "Radio Srood",
-      "Variety"
-    ],
-    [
-      "http://s10.myradiostream.com:12238/;",
-      "SAL Watandar",
+    
+      "http://stream.zeno.fm/2peffbsrcg8uv.m3u",
+      "FlashBack FM",
       "Pop"
     ],
     [
