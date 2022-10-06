@@ -15,9 +15,14 @@
       "DocuDubery's world of History",
       "Historical History"
     ],
-    
-      "http://stream.zeno.fm/2peffbsrcg8uv.m3u",
-      "FlashBack FM",
+    [
+      "http://stream.radiosrood.com:8000/live",
+      "Radio Srood",
+      "Variety"
+    ],
+    [
+      "http://s10.myradiostream.com:12238/;",
+      "SAL Watandar",
       "Pop"
     ],
     [
